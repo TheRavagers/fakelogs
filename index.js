@@ -39,7 +39,7 @@ v = neighbor
 # do you see how the loop is erased in the above code?
     v = vertex
     while v not in tree:
-tree.add(v)
+tree.add
 v = parent[v]
 
 fig = plt.figure(figsize = (4.8, 3.6), dpi = 100)
